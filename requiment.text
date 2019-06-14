@@ -1,0 +1,30 @@
+python 3.7 64bit 
+
+Numpy : 1.16.2
+pip3 install numpy
+
+
+OpenCV : 4.1.0
+Install : pip3 install opencv-python         (1)
+        : pip3 install opencv-contrib-python (2)
+
+Tensorflow : 1.13.1
+Install: pip3 install tensorflow
+
+Pillow :  5.4.1
+pip3 install pillow
+
+flask :  1.0.2
+pip3 install flask 
+
+Slearn :  0.20.3
+pip install -U scikit-learn
+
+
+Pickle:
+pip3 install pickle
+
+Pandas: 
+pip3 install pandas
+
+
